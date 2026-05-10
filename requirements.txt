@@ -1,0 +1,7 @@
+# verify_concordance.py 실행 의존성
+# 검증 완료 환경: pandas 2.3.3 / networkx 3.6.1 / Python 3.10+
+#
+# 설치: pip install -r requirements.txt
+
+pandas>=2.0.0,<3.0.0
+networkx>=3.0,<4.0

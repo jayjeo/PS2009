@@ -1,5 +1,8 @@
 
-# Pierce and Schott(2009) 의 합성품목번호 구축 코드를 제공
+# 논문 원문
+- 정덕재 (2026) '합성품목번호를 사용한 대한민국 HSK의 시계열 연계', 관세학회지.
+
+# Pierce and Schott(2009)
 - Pierce, J.R., Schott, P.K., 2009. Concording US harmonized system categories over time. National bureau of economic research.
 
 # 합성품목번호-HSK 매칭 뷰어 (exe 프로그램)

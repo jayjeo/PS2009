@@ -9,8 +9,8 @@
 - 아래 Dropbox 링크에서 다운로드 받아서 사용
 - [https://www.dropbox.com/scl/fi/lkiqrytnropvotszfd3au/synthetic_network.exe?rlkey=kgamqv5dsdhvnf8xaa669a10p&st=r1fzu200](https://www.dropbox.com/scl/fi/lkiqrytnropvotszfd3au/synthetic_network.exe?rlkey=kgamqv5dsdhvnf8xaa669a10p&st=r1fzu200)
 - 다운로드 방법
-  [how_download.png]
-  
+  [[how_download.png]]
+
 # STATA와 Python 코드
 - 어떤 코드를 사용하든 행 단위로 완벽히 동일한 산출물을 출력함
 - STATA code: korean_hsk_concordance.do

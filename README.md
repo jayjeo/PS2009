@@ -7,7 +7,7 @@
 
 # 합성품목번호-HSK 매칭 뷰어 (exe 프로그램)
 - 아래 Dropbox 링크에서 다운로드 받아서 사용
-- [http://HOME-7k2m.synology.me:5000/d/s/18FVZDfB7DKtXrsncyitnByNu60lLl2v/WJYhjU3fIsaFps3lPb1NyA1SYgLpjQYd-X7SgHS5oNA0](http://HOME-7k2m.synology.me:5000/d/s/18FVZDfB7DKtXrsncyitnByNu60lLl2v/WJYhjU3fIsaFps3lPb1NyA1SYgLpjQYd-X7SgHS5oNA0)
+- [http://acubens555HOME.quickconnect.to/d/s/18FVZDfB7DKtXrsncyitnByNu60lLl2v/WJYhjU3fIsaFps3lPb1NyA1SYgLpjQYd-X7SgHS5oNA0](http://acubens555HOME.quickconnect.to/d/s/18FVZDfB7DKtXrsncyitnByNu60lLl2v/WJYhjU3fIsaFps3lPb1NyA1SYgLpjQYd-X7SgHS5oNA0)
 
 # STATA와 Python 코드
 - 어떤 코드를 사용하든 행 단위로 완벽히 동일한 산출물을 출력함

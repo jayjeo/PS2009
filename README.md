@@ -1,6 +1,6 @@
 
 # 논문 원문
-- 정덕재 (2026) '합성품목번호를 사용한 대한민국 HSK의 시계열 연계', 관세학회지.
+- 정덕재 (2026) '[합성품목번호를 사용한 대한민국 HSK의 시계열 연계](https://jayjeo.github.io/%ED%95%A9%EC%84%B1%ED%92%88%EB%AA%A9%EB%B2%88%ED%98%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%20HSK%EC%9D%98%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EC%97%B0%EA%B3%84.pdf)', 관세학회지.
 
 # Pierce and Schott(2009)
 - Pierce, J.R., Schott, P.K., 2009. Concording US harmonized system categories over time. National bureau of economic research.
